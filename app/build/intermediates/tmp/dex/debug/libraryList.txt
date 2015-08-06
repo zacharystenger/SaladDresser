@@ -1,0 +1,5 @@
+/home/zachary/SaladDresser/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-5a95eafde1c0d3087429ec68afdd0f554da7f5c1.jar
+/home/zachary/SaladDresser/app/build/intermediates/pre-dexed/debug/classes-962ac0d276bf433fddf7dec3b17ecd876b5b5439.jar
+/home/zachary/SaladDresser/app/build/intermediates/pre-dexed/debug/classes-d591180c72f7a2032ff472f5118df0c0dcbb0b3b.jar
+/home/zachary/SaladDresser/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-33e3361326e19cea123259569a6eda8b2480313e.jar
+/home/zachary/SaladDresser/app/build/intermediates/classes/debug
